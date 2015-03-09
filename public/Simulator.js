@@ -67,19 +67,3 @@ getCurrentY = function(e) {
 
 
 
-
-
-
-
-//    $('div').each(function(){
-//        var name;
-//        if ($(this).attr('id')){
-//            name = $(this).attr('id');
-//        }
-//        else {
-//            name = $(this).attr('class');
-//        }
-//        $(this).prepend(name);
-//    });
-
-
